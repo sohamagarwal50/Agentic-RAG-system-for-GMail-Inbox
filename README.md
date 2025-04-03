@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Type your queries, and the AI will retrieve relevant email data to generate responses.
+Type your queries, and the AI will retrieve relevant email data to generate responses. Please run this in google colab or another virtual environment. The kernel may crash if run locally due to less memory.
 
 ## Future Improvements
 - Enhancing multi-turn conversation memory.
